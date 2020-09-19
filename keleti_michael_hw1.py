@@ -10,4 +10,5 @@ rate = frate/12
 payment = ((1+rate)**mont * princ * rate)/((1+rate)**mont-1)
 print(payment)
 
+##Outputs different value than intended
 
